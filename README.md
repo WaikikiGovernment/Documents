@@ -1,6 +1,6 @@
 # Documents
 
-## [Export](../Export)
+## [Export](./Export)
 
 ## Colors
 
