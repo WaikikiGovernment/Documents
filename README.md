@@ -6,7 +6,7 @@
 
 ## [Typography](./Typography.md)
 
-## [Colors](./Colors.md)
+## [Layout](./Layout.md)
 
 ## [Styles](./Styles.md)
 
