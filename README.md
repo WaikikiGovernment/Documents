@@ -1,15 +1,15 @@
 # Documents
 
-## [Export](./Export)
+## [Export](./Export.md)
 
-## Colors
+## [Colors](./Colors.md)
 
-## Typography
+## [Typography](./Typography.md)
 
-## Layout
+## [Colors](./Colors.md)
 
-## Styles
+## [Styles](./Styles.md)
 
-## Credentials
+## [Credentials](./Credentials.md)
 
-## Infos
+## [Infos](./Infos.md)
