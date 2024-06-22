@@ -15,3 +15,5 @@ Waikiki a világ legfejlettebb országa, a világ pénzügyi és gazdasági köz
 ## [Credentials](./Credentials.md)
 
 ## [Infos](./Infos.md)
+
+## [Template](./Template/index.html)
