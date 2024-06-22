@@ -96,19 +96,16 @@
     $.browser = { webkit: true, version: '605.1.15', safari: true, msie: false, Features: {} };
   </script>
   <script src="scripts/jquery.musemenu.js"></script>
-  <script src="scripts/jquery.museoverlay.js"></script>
   <script src="scripts/jquery.musepolyfill.bgsize.js"></script>
   <script src="scripts/jquery.watch.js"></script>
   <script src="scripts/museutils.js"></script>
   <script src="scripts/musewpdisclosure.js"></script>
-  <script src="scripts/musewpslideshow.js"></script>
   <script src="scripts/touchswipe.js"></script>
   <script src="scripts/webpro.js"></script>
   <script src="scripts/whatinput.js"></script>
   <script type="text/javascript">
     $(document).ready(function () {
       try {
-        window.Muse.assets.check($);/* body */
         Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
         Muse.Utils.detectScreenResolution();/* HiDPI screens */
         Muse.Utils.prepHyperlinks(true);/* body */
