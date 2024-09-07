@@ -21,7 +21,8 @@ body {
   bottom: 0px !important;
 }
 
-.verticalspacer {
+.verticalspacer,
+.TabbedPanelsContent>.grpelem {
   min-height: 0px !important;
 }
 
@@ -59,6 +60,21 @@ iframe.animation {
   height: auto;
 }
 
+.SubMenu {
+  position: fixed !important;
+  right: 380px !important;
+  left: unset !important;
+  margin-top: 70px;
+}
+
+@media (max-width: 760px) {
+  .SubMenu {
+    right: unset !important;
+    left: 0px !important;
+    margin-top: 105px;
+  }
+}
+
 /* Grid and row */
 @media (max-width: 1920px) {
 
@@ -89,6 +105,14 @@ iframe.animation {
     display: contents !important;
   }
 
+  .Grid>div>div:first-child {
+    order: -1;
+  }
+
+  .Grid>div>div:last-child {
+    order: 1;
+  }
+
   .Row>.PamphletWidget {
     padding: unset !important;
     width: 100% !important;
@@ -106,7 +130,7 @@ iframe.animation {
 
   .Row .wp-panel:not(.museBGSize),
   .Row .Thumb.popup_element.rounded-corners:not(.museBGSize),
-  .Grid>.PamphletWidget{
+  .Grid>.PamphletWidget {
     visibility: hidden !important;
   }
 
@@ -119,10 +143,10 @@ iframe.animation {
   .Grid.clearfix:after,
   .Grid.clearfix:before,
   .Grid .clearfix:after,
-  .Grid .clearfix:before  {
+  .Grid .clearfix:before {
     display: none !important;
   }
-  
+
   .Row .Card,
   .Grid .Card {
     margin-bottom: 100px !important;
@@ -224,53 +248,58 @@ iframe.animation {
 /* Typography */
 @media (max-width: 1000px) {
 
-  h1, h2, h3, h4, h5,h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     box-sizing: border-box;
   }
 
-  h1 {
+  :not(.rgba-background)>h1 {
     font-size: 56px !important;
     line-height: 56px !important;
     margin-top: -100px !important;
   }
 
-  h2 {
+  :not(.rgba-background)>h2 {
     font-size: 40px !important;
     line-height: 40px !important;
   }
 
-  h3 {
+  :not(.rgba-background)>h3 {
     font-size: 22px !important;
     line-height: 22px !important;
     width: calc(100vw - 10px);
     margin-left: calc((1000px - 100vw)/2 + 5px);
   }
 
-  h4 {
+  :not(.rgba-background)>h4 {
     width: calc(100vw - 10px);
     margin-left: calc((1000px - 100vw)/2 + 5px);
   }
 
-  h5 {
+  :not(.rgba-background)>h5 {
     width: calc(100vw - 20px);
     margin-left: calc((800px - 100vw)/2 + 10px);
   }
 
-  h6 {
+  :not(.rgba-background)>h6 {
     width: calc(100vw - 20px);
     margin-left: calc((600px - 100vw)/2 + 10px);
   }
 
-  .h7>p {
+  :not(.rgba-background)>.h7 {
     width: calc(100vw - 20px);
     margin-left: calc((400px - 100vw)/2 + 10px);
   }
+}
 
-  .TextLine p {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
+.TextLine p {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 /* Layout adjustments on small screens */
