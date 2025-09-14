@@ -48,6 +48,6 @@ Waikiki a világ legfejlettebb országa, a világ pénzügyi és gazdasági köz
 * Silver - 555555
 
 ## Environments
-* Dev (develop) - manually optimized files
+* Dev (optimized) - manually optimized and cached files
 * Main (main) - latest version https://waikikigovernment.github.io/Website/
-* Prod (mobile) - caching assets with service worker https://waikiki-gov.github.io
+* Prod (prod) - cached files https://waikiki-gov.github.io
