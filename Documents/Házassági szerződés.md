@@ -112,14 +112,10 @@ A tíz évnyi hűséges és sikeres magánéleti kapcsolat, valamint állami szo
 
 ## V. FEJEZET: DINASZTIKUS ÖRÖKLÉS ÉS GYERMEKVÉDELEM
 
-**1. Trónöröklés és Jogállás**
-Bármely közös gyermek születése pillanatában automatikusan a Chease-dinasztia teljes jogú tagjává, és a Waikiki Trón várományosává válik. Válás esetén a gyermekek felett a Királyi Család gyakorol védnökséget.
-**2. Vagyonkezelő Alapok**
-A válás esetén a gyermekekre eső vagyoni hányad (vagy a 10 éven belüli válás esetén gyermekenként 100 millió USD) egy zárolt Nemzeti Vagyonkezelő Alapba kerül. Az Alap kezelését a gyermekek 18. életévének betöltéséig a Waikiki Nemzeti Bank, valamint a Királyi Család közös felügyelete alatt végzi.
-**3. Nevelési Vétójog**
-Válás esetén Selena megőrzi teljes körű anyai felügyeleti és láthatási jogát. A gyermekek államigazgatási és ceremoniális nevelésébe a Dinasztia irányelvei az iránymutatóak, azonban Selena minden oktatási, vallási és egészségügyi kérdésben abszolút vétójoggal rendelkezik.
-**4. Elsődleges Otthon**
-A felek rögzítik, hogy a trónöröklési kötelezettségekre, a dinasztikus hagyományokra, valamint a maximális fizikai és érzelmi biztonságra tekintettel a közös gyermekek elsődleges otthona és hivatalos lakhelye Nova Aurelia lesz. Ez a rendelkezés mind a házastársi életközösség fennállása alatt, mind pedig egy esetleges különélés vagy a házasság felbontása esetén megkerülhetetlenül irányadó.
+* **Trónöröklés és Jogállás:** Bármely közös gyermek születése pillanatában automatikusan a Chease-dinasztia teljes jogú tagjává, és a Waikiki Trón várományosává válik. Válás esetén a gyermekek felett a Királyi Család gyakorol védnökséget.
+* **Vagyonkezelő Alapok:** A válás esetén a gyermekekre eső vagyoni hányad (vagy a 10 éven belüli válás esetén gyermekenként 100 millió USD) egy zárolt Nemzeti Vagyonkezelő Alapba kerül. Az Alap kezelését a gyermekek 18. életévének betöltéséig a Waikiki Nemzeti Bank, valamint a Királyi Család közös felügyelete alatt végzi.
+* **Nevelési Vétójog:** Válás esetén Selena megőrzi teljes körű anyai felügyeleti és láthatási jogát. A gyermekek államigazgatási és ceremoniális nevelésébe a Dinasztia irányelvei az iránymutatóak, azonban Selena minden oktatási, vallási és egészségügyi kérdésben abszolút vétójoggal rendelkezik.
+* **Elsődleges Otthon:** A felek rögzítik, hogy a trónöröklési kötelezettségekre, a dinasztikus hagyományokra, valamint a maximális fizikai és érzelmi biztonságra tekintettel a közös gyermekek elsődleges otthona és hivatalos lakhelye Nova Aurelia lesz. Ez a rendelkezés mind a házastársi életközösség fennállása alatt, mind pedig egy esetleges különélés vagy a házasság felbontása esetén megkerülhetetlenül irányadó.
 
 ---
 
@@ -127,21 +123,21 @@ A felek rögzítik, hogy a trónöröklési kötelezettségekre, a dinasztikus h
 
 Tekintettel a Diktátor és a Konzul pozíciójára, a felek magánélete nemzetbiztonsági kérdés. A "Reputációs Doktrína" megsértése szigorú szankciókat von maga után.
 
-**1. A kibékülés lehetősége és az automatikus bontóok kizárása**
-A felek kifejezetten rögzítik, hogy az esetleges bizonyított hűtlenség semelyik fél részéről nem jelenti a házastársi szövetség automatikus vagy kötelező érvényű felbontását. A felek kettejük mély szerelmét, az emberi megbocsátás esélyét és a dinasztikus kötelék megóvását szem előtt tartva elismerik, hogy egy esetleges hűtlenségi krízis ellenére is mindenkor nyitva áll a lehetőség a sérelmek rendezésére és a teljes körű kibékülésre. Az alább részletezett vagyoni szankciók és jogi következmények kizárólag abban az esetben aktiválódnak, amennyiben a sérelmet szenvedett fél elutasítja a kibékülést, és kifejezetten a hűtlenségre hivatkozva a házasság felbontása mellett dönt.
-**2. A hűtlenség esetei**
-A jelen szerződés alkalmazásában hűtlenségnek minősül bármilyen szexuális jellegű fizikai kapcsolat harmadik személlyel; tartós, bizalmas jellegű érzelmi viszony fenntartása, amely a házastársi kötelék integritását érdemben sérti; valamint bármely olyan magatartás, amely a házastársi hűség és kizárólagosság alapelvét nyilvánvalóan és szándékosan megsérti. Tekintettel arra, hogy Selena a Chease-dinasztia tagjaként és Waikiki Hercegnőjeként fokozott közéleti és dinasztikus felelősséget visel, az ő esetében hűtlenségnek minősül továbbá bármilyen olyan kétértelmű, rendszeres és szándékos magánjellegű kapcsolattartás is harmadik személlyel, amely alkalmas a királyi család méltóságának, a dinasztikus kötelék hitelességének vagy a házastársi bizalom alapjának megkérdőjelezésére. A hűtlenség megállapítása kizárólag a Titkos Arbitrázsbizottság zárt eljárásában történhet, amely a bizonyítékokat a felek méltóságának megóvása mellett, a legteljesebb titoktartás keretei között vizsgálja.
-**3. Vagyonfelosztás hűtlenség esetén**
-Amennyiben a házasság felbontására bizonyított hűtlenség miatt kerül sor és a sérelmet szenvedett fél a kibékülést elutasítja, a vagyonmegosztás az alábbi elv szerint alakul. A sérelmet szenvedett fél jogosult a számára kedvezőbb opciót választani a következő két lehetőség közül:
+* **A kibékülés lehetősége és az automatikus bontóok kizárása:** A felek kifejezetten rögzítik, hogy az esetleges bizonyított hűtlenség semelyik fél részéről nem jelenti a házastársi szövetség automatikus vagy kötelező érvényű felbontását. A felek kettejük mély szerelmét, az emberi megbocsátás esélyét és a dinasztikus kötelék megóvását szem előtt tartva elismerik, hogy egy esetleges hűtlenségi krízis ellenére is mindenkor nyitva áll a lehetőség a sérelmek rendezésére és a teljes körű kibékülésre. Az alább részletezett vagyoni szankciók és jogi következmények kizárólag abban az esetben aktiválódnak, amennyiben a sérelmet szenvedett fél elutasítja a kibékülést, és kifejezetten a hűtlenségre hivatkozva a házasság felbontása mellett dönt.
+
+* **A hűtlenség esetei:** A jelen szerződés alkalmazásában hűtlenségnek minősül bármilyen szexuális jellegű fizikai kapcsolat harmadik személlyel; tartós, bizalmas jellegű érzelmi viszony fenntartása, amely a házastársi kötelék integritását érdemben sérti; valamint bármely olyan magatartás, amely a házastársi hűség és kizárólagosság alapelvét nyilvánvalóan és szándékosan megsérti. Tekintettel arra, hogy Selena a Chease-dinasztia tagjaként és Waikiki Hercegnőjeként fokozott közéleti és dinasztikus felelősséget visel, az ő esetében hűtlenségnek minősül továbbá bármilyen olyan kétértelmű, rendszeres és szándékos magánjellegű kapcsolattartás is harmadik személlyel, amely alkalmas a királyi család méltóságának, a dinasztikus kötelék hitelességének vagy a házastársi bizalom alapjának megkérdőjelezésére. A hűtlenség megállapítása kizárólag a Titkos Arbitrázsbizottság zárt eljárásában történhet, amely a bizonyítékokat a felek méltóságának megóvása mellett, a legteljesebb titoktartás keretei között vizsgálja.
+
+* **Vagyonfelosztás hűtlenség esetén:** Amennyiben a házasság felbontására bizonyított hűtlenség miatt kerül sor és a sérelmet szenvedett fél a kibékülést elutasítja, a vagyonmegosztás az alábbi elv szerint alakul. A sérelmet szenvedett fél jogosult a számára kedvezőbb opciót választani a következő két lehetőség közül:
 * **(a)** a Közös Magánvagyon 50%-a; vagy
 * **(b)** a saját, házasságba bevitt és a házasság alatt megkeresett vagyonának teljes egészében történő megtartása (vagyonarányos visszaszolgáltatás).
+
 A hűtlen fél kizárólag a fenti választás után fennmaradó részt tarthatja meg, és a IV. Fejezetben meghatározott kedvezményes kompenzációkra való jogosultságát automatikusan elveszíti.
-**4. Hűtlenség Selena részéről**
-Amennyiben bizonyítást nyer Selena hűtlensége, és ez a kibékülés elutasítása miatt a házasság felbontásához vezet, a felek vagyonmegosztása kizárólag a hozott saját vagyonuk arányában történik. Selena azonnal elveszíti jogosultságát a 7 milliárd USD értékű kompenzációra, valamint a 10 év utáni 50%-os felosztásra. Csupán az általa bevitt és megkeresett vagyonnal távozhat.
-**5. Hűtlenség Raimondo részéről**
-Ha Selena Raimondo bizonyított hűtlensége miatt kezdeményezi a válást és elutasítja a kibékülést, Selena jogosulttá válik a IV. Fejezetben meghatározott maximális kompenzációkra (10 éven belül 7 milliárd, azon túl a Közös Magánvagyon fele).
-**6. Abszolút Titoktartás**
-Válás, különválás vagy bármilyen magánéleti konfliktus esetén teljes és életfogytig tartó nyilatkozattételi tilalom lép életbe. Tilos bármilyen nyilvános interjú, könyvpublikáció, közösségi média poszt vagy háttérbeszélgetés a másik féllel, vagy a házassággal, vagy a dinasztia tagjaival kapcsolatosan, a másik fél hozzájárulása nélkül. A tilalom megszegése hazaárulásnak minősülhet, és a kedvezmények azonnali megvonását vonja maga után.
+
+* **Hűtlenség Selena részéről:** Amennyiben bizonyítást nyer Selena hűtlensége, és ez a kibékülés elutasítása miatt a házasság felbontásához vezet, a felek vagyonmegosztása kizárólag a hozott saját vagyonuk arányában történik. Selena azonnal elveszíti jogosultságát a 7 milliárd USD értékű kompenzációra, valamint a 10 év utáni 50%-os felosztásra. Csupán az általa bevitt és megkeresett vagyonnal távozhat.
+
+* **Hűtlenség Raimondo részéről:** Ha Selena Raimondo bizonyított hűtlensége miatt kezdeményezi a válást és elutasítja a kibékülést, Selena jogosulttá válik a IV. Fejezetben meghatározott maximális kompenzációkra (10 éven belül 7 milliárd, azon túl a Közös Magánvagyon fele).
+
+* **Abszolút Titoktartás:** Válás, különválás vagy bármilyen magánéleti konfliktus esetén teljes és életfogytig tartó nyilatkozattételi tilalom lép életbe. Tilos bármilyen nyilvános interjú, könyvpublikáció, közösségi média poszt vagy háttérbeszélgetés a másik féllel, vagy a házassággal, vagy a dinasztia tagjaival kapcsolatosan, a másik fél hozzájárulása nélkül. A tilalom megszegése hazaárulásnak minősülhet, és a kedvezmények azonnali megvonását vonja maga után.
 
 ---
 
@@ -177,21 +173,16 @@ A házaszársak valamelyikének halála esetén a Közös Magánvagyon felosztá
 
 ## VIII. FEJEZET: ÁLLAMI ÉS DIPLOMÁCIAI STÁTUSZ
 
-**1. Pozíciók Megőrzése**
-Selena szenátori, konzuli és UNICEF-nagyköveti tisztségei, valamint a hercegnői rangja a saját, egyéni érdemein alapulnak. Házasság felbontása esetén, amennyiben az nem hűtlenség vagy hazaárulás miatt történik, Selena ezeket a címeket, és az ezzel járó diplomáciai mentelmi jogot megőrzi.
-**2. Lojalitási Nyilatkozat**
-Selena vállalja, hogy válás esetén sem csatlakozik semmilyen ellenzéki formációhoz, nem veszélyezteti Waikiki kormányzatának működését, és cselekedetei nem lehetnek ellentétesek az állam vagy a Chease-dinasztia hosszú távú geopolitikai érdekeivel.
+* **Pozíciók Megőrzése:** Selena szenátori, konzuli és UNICEF-nagyköveti tisztségei, valamint a hercegnői rangja a saját, egyéni érdemein alapulnak. Házasság felbontása esetén, amennyiben az nem hűtlenség vagy hazaárulás miatt történik, Selena ezeket a címeket, és az ezzel járó diplomáciai mentelmi jogot megőrzi.
+* **Lojalitási Nyilatkozat:** Selena vállalja, hogy válás esetén sem csatlakozik semmilyen ellenzéki formációhoz, nem veszélyezteti Waikiki kormányzatának működését, és cselekedetei nem lehetnek ellentétesek az állam vagy a Chease-dinasztia hosszú távú geopolitikai érdekeivel.
 
 ---
 
 ## IX. FEJEZET: JOGHATÓSÁG ÉS ZÁRÓ RENDELKEZÉSEK
 
-**1. Kizárólagos Joghatóság**
-Jelen szerződésre, valamint a belőle fakadó bármely jogvitára kizárólag a Waikiki Szuverén Állam jogrendje alkalmazandó.
-**2. Titkos Arbitrázs**
-Bármely, a házassággal vagy a jelen szerződéssel kapcsolatos vitás kérdésben a nyilvános bírósági eljárás szigorúan kizárt. Minden vitát a Chease Családi Tanács és a Legfelsőbb Bíróság Főbírója által vezetett Titkos Arbitrázsbizottság előtt, zárt ajtók mögött kell rendezni. Az arbitrázs döntése végleges és megfellebbezhetetlen.
-**3. Pénzügyi Rendezés**
-A IV. és IX. fejezet alapján történő kifizetéseket a Waikiki Nemzeti Bank (WNB) monetáris felügyelete mellett, legfeljebb 5 éves átmeneti ütemezésben, eszközátruházásokkal vagy likviditási garanciákkal kell lebonyolítani úgy, hogy az semmilyen körülmények között ne veszélyeztesse a Waikiki Dollár (WUD) árfolyamát, az ország gazdaságát vagy a tőzsdei vállalkozások árfolyamértékét.
+* **Kizárólagos Joghatóság:** Jelen szerződésre, valamint a belőle fakadó bármely jogvitára kizárólag a Waikiki Szuverén Állam jogrendje alkalmazandó.
+* **Titkos Arbitrázs:** Bármely, a házassággal vagy a jelen szerződéssel kapcsolatos vitás kérdésben a nyilvános bírósági eljárás szigorúan kizárt. Minden vitát a Chease Családi Tanács és a Legfelsőbb Bíróság Főbírója által vezetett Titkos Arbitrázsbizottság előtt, zárt ajtók mögött kell rendezni. Az arbitrázs döntése végleges és megfellebbezhetetlen.
+* **Pénzügyi Rendezés:** A IV. és IX. fejezet alapján történő kifizetéseket a Waikiki Nemzeti Bank (WNB) monetáris felügyelete mellett, legfeljebb 5 éves átmeneti ütemezésben, eszközátruházásokkal vagy likviditási garanciákkal kell lebonyolítani úgy, hogy az semmilyen körülmények között ne veszélyeztesse a Waikiki Dollár (WUD) árfolyamát, az ország gazdaságát vagy a tőzsdei vállalkozások árfolyamértékét.
 
 *A felek kinyilvánítják, hogy bár a jelen dokumentum szuverén állami jogforrás és dinasztikus okmány, annak valódi mozdíthatatlan tartóoszlopa a két kötelékbe lépő lélek tiszteletre és mély szerelemre épülő egymásra találása. A felek a jelen szerződést, mint szabad, szeretetteljes, egymást támogató akaratukkal mindenben megegyezőt, a Diktátori Kabinet Jogi Tanácsának jelenlétében, jóváhagyólag és büszkeséggel írják alá.*
 
@@ -200,4 +191,4 @@ A IV. és IX. fejezet alapján történő kifizetéseket a Waikiki Nemzeti Bank 
 | &nbsp; | &nbsp; |
 | :--- | :--- |
 | **Raimondo Chease** | **Selena Marie Gomez** |
-| Waikiki Diktátora, Koronaherceg | Waikiki Hercegnője, Szenátor |
+| Waikiki Diktátora, Koronaherceg | Waikiki Szenátora, Hercegnő |
