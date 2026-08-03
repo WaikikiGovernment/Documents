@@ -144,7 +144,37 @@ Válás, különválás vagy bármilyen magánéleti konfliktus esetén teljes �
 
 ---
 
-## VII. FEJEZET: ÁLLAMI ÉS DIPLOMÁCIAI STÁTUSZ
+## VII. FEJEZET: ÖZVEGYSÉG ÉS RÉGENSSÉG
+
+A felek rögzítik, hogy az Inter Medic által biztosított sejtregenerációs technológia (Életelixír) ellenére a fizikai sérülésekből, balesetekből vagy rendkívüli geopolitikai eseményekből fakadó kockázatok miatt szükséges a Diktátori tisztség, a Királyi Család és a Közös Magánvagyon sorsának rendezése Raimondo esetleges váratlan elhalálozása esetére.
+
+**1. Régensség és Államfői Utódlás**
+
+* **Kiskorú trónörökös esetén:** Raimondo elhalálozása esetén, amennyiben a trónörökös kiskorú vagy még nem érte el a kormányzáshoz alkotmányosan előírt érettségi korhatárt, a legfelsőbb régensi feladatokat elsődlegesen Chease Young és Jessica Walker gyakorolják. A hiányukban automatikusan Selena veszi át a régensi jogköröket.
+* **Gyámhatósági jogok:** Selena, mint Édesanya, megőrzi a gyermekek feletti teljes körű személyes, nevelési, erkölcsi és oktatási gyámhatóságát, valamint megilleti a vétójog a gyermekek személyes életvitelét és egészségügyi kezeléseit érintő kérdésekben.
+* **Gyermektelen özvegység esetén:** Közös gyermek hiányában Raimondo elhalálozásakor a Királyi vagy Koronahercegi tisztségek automatikusan és teljes egészében átszállnak a Királyi Család az Alkotmányban rögzített tagjaira.
+
+**2. Özvegyi Vagyonelosztás**
+
+A házaszársak valamelyikének halála esetén a Közös Magánvagyon felosztása az alábbi szigorú rend szerint történik, mentesítve a vagyont az általános öröklési illetékek alól:
+
+* **Gyermektelen házasság esetén:**
+    * Selena részesedése: 50%, amely felett Selena teljes és korlátlan tulajdonjogot szerez.
+    * A fennmaradó 50% automatikusan visszaszáll a Királyi Családra (Chease Young és Jessica Walker részére).
+* **Egy közös gyermek esetén:**
+    * Selena részesedése: 40%
+    * A gyermek részesedése: 20% (amely a gyermek 20. életévéig zárolt Nemzeti Vagyonkezelő Alapba kerül).
+    * A fennmaradó 40% visszaszáll a Királyi Családra.
+* **Két közös gyermek esetén:**
+    * Selena részesedése: 35%
+    * A gyermekek részesedése: 30% (gyermekenként 15–15%, zárolt Vagyonkezelő Alapban).
+    * A fennmaradó 35% visszaszáll a Királyi Családra.
+* **Három vagy több közös gyermek esetén:**
+    * Selena részesedése: 30%
+    * A gyermekek részesedése: 40% (egyenlő arányban elosztva a gyermekek között, zárolt Vagyonkezelő Alapban).
+    * A fennmaradó 30% visszaszáll a Királyi Családra.
+
+## VIII. FEJEZET: ÁLLAMI ÉS DIPLOMÁCIAI STÁTUSZ
 
 **1. Pozíciók Megőrzése**
 Selena szenátori, konzuli és UNICEF-nagyköveti tisztségei, valamint a hercegnői rangja a saját, egyéni érdemein alapulnak. Házasság felbontása esetén, amennyiben az nem hűtlenség vagy hazaárulás miatt történik, Selena ezeket a címeket, és az ezzel járó diplomáciai mentelmi jogot megőrzi.
@@ -153,12 +183,14 @@ Selena vállalja, hogy válás esetén sem csatlakozik semmilyen ellenzéki form
 
 ---
 
-## VIII. FEJEZET: JOGHATÓSÁG ÉS ZÁRÓ RENDELKEZÉSEK
+## IX. FEJEZET: JOGHATÓSÁG ÉS ZÁRÓ RENDELKEZÉSEK
 
 **1. Kizárólagos Joghatóság**
 Jelen szerződésre, valamint a belőle fakadó bármely jogvitára kizárólag a Waikiki Szuverén Állam jogrendje alkalmazandó.
 **2. Titkos Arbitrázs**
 Bármely, a házassággal vagy a jelen szerződéssel kapcsolatos vitás kérdésben a nyilvános bírósági eljárás szigorúan kizárt. Minden vitát a Chease Családi Tanács és a Legfelsőbb Bíróság Főbírója által vezetett Titkos Arbitrázsbizottság előtt, zárt ajtók mögött kell rendezni. Az arbitrázs döntése végleges és megfellebbezhetetlen.
+**3. Pénzügyi Rendezés**
+A IV. és IX. fejezet alapján történő kifizetéseket a Waikiki Nemzeti Bank (WNB) monetáris felügyelete mellett, legfeljebb 5 éves átmeneti ütemezésben, eszközátruházásokkal vagy likviditási garanciákkal kell lebonyolítani úgy, hogy az semmilyen körülmények között ne veszélyeztesse a Waikiki Dollár (WUD) árfolyamát, az ország gazdaságát vagy a tőzsdei vállalkozások árfolyamértékét.
 
 *A felek kinyilvánítják, hogy bár a jelen dokumentum szuverén állami jogforrás és dinasztikus okmány, annak valódi mozdíthatatlan tartóoszlopa a két kötelékbe lépő lélek tiszteletre és mély szerelemre épülő egymásra találása. A felek a jelen szerződést, mint szabad, szeretetteljes, egymást támogató akaratukkal mindenben megegyezőt, a Diktátori Kabinet Jogi Tanácsának jelenlétében, jóváhagyólag és büszkeséggel írják alá.*
 
