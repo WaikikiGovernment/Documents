@@ -63,11 +63,15 @@ A Felek kinyilvánítják, hogy házasságuk alapja a kölcsönös tisztelet, a 
 
 ---
 
-## III. FEJEZET: VAGYONMEGOSZTÁS ÉS IDŐBELI LÉPCSŐZÉS
+## III. A HÁZASSÁG FELBONTÁSA
 
-A házasság felbontása esetén a Közös Magánvagyon felosztása a geopolitikai stabilitás és a hosszú távú bizalom elismerése érdekében az alábbi időbeli lépcsőzés szerint történik:
+---
 
-**1. A házasságkötéstől számított ELSŐ 10 ÉVEN BELÜL történő válás esetén (Konzolidációs Időszak):**
+## IV. FEJEZET: VAGYONMEGOSZTÁS ÉS IDŐBELI LÉPCSŐK
+
+A házasság felbontása esetén a Közös Magánvagyon felosztása a geopolitikai stabilitás és a hosszú távú bizalom elismerése érdekében az alábbi időbeli lépcsők szerint történik:
+
+**1. A házasságkötéstől számított ELSŐ 10 ÉVEN BELÜL történő válás esetén:**
 
 * Selena részére egyösszegű, méltányos kompenzációként **7 milliárd USD** kerül kifizetésre a Közös Magánvagyonból. (Ez az összeg magában foglalja Selena eredeti 3 milliárd USD vagyonát, kiegészítve egy 4 milliárd USD értékű diplomáciai és életviteli kompenzációval).
 * A kompenzáció magában foglalja az eddigi közös rezidenciák közül legalább egy nemzetközi és egy waikiki luxusingatlan (pl. maldív-szigeteki birtok) kizárólagos tulajdonjogát.
@@ -83,7 +87,7 @@ A tíz évnyi hűséges és sikeres állami/magánéleti szolgálat elismerések
 
 ---
 
-## IV. FEJEZET: DINASZTIKUS ÖRÖKLÉS ÉS GYERMEKVÉDELEM
+## V. FEJEZET: DINASZTIKUS ÖRÖKLÉS ÉS GYERMEKVÉDELEM
 
 **1. Trónöröklés és Jogállás**
 Bármely közös gyermek születése pillanatában automatikusan a Chease-dinasztia teljes jogú tagjává, és a Waikiki Trón várományosává válik. Személyük felett a Legfelsőbb Bíróság és a Királyi Család gyakorol védnökséget.
@@ -94,20 +98,20 @@ Válás esetén Selena megőrzi teljes körű anyai felügyeleti és láthatási
 
 ---
 
-## V. FEJEZET: HŰTLENSÉGI, REPUTÁCIÓS ÉS TITOKTARTÁSI KLAUZULÁK
+## VI. FEJEZET: HŰTLENSÉGI, REPUTÁCIÓS ÉS TITOKTARTÁSI KLAUZULÁK
 
 Tekintettel a Diktátor és a Konzul pozíciójára, a Felek magánélete nemzetbiztonsági kérdés. A "Reputációs Doktrína" megsértése szigorú szankciókat von maga után.
 
 **1. Hűtlenség Selena részéről**
 Amennyiben bizonyítást nyer Selena hűtlensége, a Felek vagyonmegosztása kizárólag a hozott saját vagyonuk arányában történik. Selena azonnal elveszíti jogosultságát a 7 milliárd USD értékű kompenzációra, valamint a 10 év utáni 50%-os (vagyonarányos) felosztásra. Csupán az általa bevitt/megkeresett (kb. 3 milliárd USD) vagyonnal távozhat.
 **2. Hűtlenség Raimondo részéről**
-Raimondo hűtlenségére vonatkozóan a dokumentum – a Diktátori jogállás miatt – nem tartalmaz nyílt büntetőjogi szankciót. Azonban, ha Selena Raimondo bizonyított hűtlensége miatt kezdeményezi a válást, Selena jogosulttá válik a III. Fejezetben meghatározott maximális kompenzációkra (10 éven belül 7 milliárd, azon túl a Közös Magánvagyon fele), függetlenül attól, hogy az állami gépezet hogyan kommunikálja a különválást.
+Raimondo hűtlenségére vonatkozóan a dokumentum – a Diktátori jogállás miatt – nem tartalmaz nyílt büntetőjogi szankciót. Azonban, ha Selena Raimondo bizonyított hűtlensége miatt kezdeményezi a válást, Selena jogosulttá válik a IV. Fejezetben meghatározott maximális kompenzációkra (10 éven belül 7 milliárd, azon túl a Közös Magánvagyon fele), függetlenül attól, hogy az állami gépezet hogyan kommunikálja a különválást.
 **3. Abszolút Titoktartás (NDA)**
 Válás, különválás vagy bármilyen magánéleti konfliktus esetén teljes és életfogytig tartó nyilatkozattételi tilalom lép életbe. Tilos bármilyen nyilvános interjú, könyvpublikáció, közösségi média poszt vagy háttérbeszélgetés. A tilalom megszegése hazaárulásnak minősülhet, és a biológiai garancia (Életelixír) azonnali megvonását vonja maga után.
 
 ---
 
-## VI. FEJEZET: ÁLLAMI ÉS DIPLOMÁCIAI STÁTUSZ
+## VII. FEJEZET: ÁLLAMI ÉS DIPLOMÁCIAI STÁTUSZ
 
 **1. Pozíciók Megőrzése**
 Selena szenátori, konzuli és UNICEF-nagyköveti tisztségei, valamint a hercegnői rangja a saját, egyéni érdemein (Érdem-Mátrix, Waikiki Economics University diploma) alapulnak. Házasság felbontása esetén – amennyiben az nem hűtlenség vagy hazaárulás miatt történik – Selena ezeket a címeket, és az ezzel járó diplomáciai mentelmi jogot élethossziglan megőrzi.
@@ -116,7 +120,7 @@ Selena vállalja, hogy válás esetén sem csatlakozik semmilyen ellenzéki form
 
 ---
 
-## VII. FEJEZET: JOGHATÓSÁG ÉS ZÁRÓ RENDELKEZÉSEK
+## VIII. FEJEZET: JOGHATÓSÁG ÉS ZÁRÓ RENDELKEZÉSEK
 
 **1. Kizárólagos Joghatóság**
 Jelen szerződésre, valamint a belőle fakadó bármely jogvitára kizárólag a Waikiki Szuverén Állam jogrendje alkalmazandó.
