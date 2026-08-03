@@ -41,7 +41,7 @@ A felek kinyilvánítják, hogy házasságuk alapja a kölcsönös tisztelet, a 
 
 * **Megingathatatlan támasz:** A felek fogadalmat tesznek arra, hogy jó és rossz időkben, globális válságok és személyes nehézségek közepette is egymás legfőbb bizalmasai, érzelmi támaszai és megértő társai maradnak. Otthonuk falai között minden külső geopolitikai nyomást és hivatalos terhet maguk mögött hagyva, a gyengéd figyelem, a feltétlen elfogadás és a békesség menedékét biztosítják egymás számára.
 * **Kizárólagos hűség:** Raimondo és Selena vállalják, hogy testben és lélekben kizárólagosan, szenvedélyes meggyőződéssel egymáshoz tartoznak. Hűségük nem pusztán a szerződésből fakadó kötelezettség, hanem az egymás iránt érzett tisztelet, szerelem és odaadás legmagasabb szintű kifejezése. Ezen sziklaszilárd érzelmi elköteleződésük egyben a királyi család erkölcsi tekintélyének és a Waikiki megdönthetetlen belső stabilitásának is az elsődleges alapköve.
-* **Egymás integritásának tisztelete:** A felek kötelezik magukat arra, hogy minden körülmények között megóvják egymás emberi méltóságát, soha nem csorbítják a másik nyilvános vagy magánéleti tekintélyét, és a felmerülő nézeteltéréseket mindig zárt ajtók mögött, mély empátiával, egymást féltő tüzelemmel, kompromisszumokkal és megértéssel rendezik.
+* **Egymás integritásának tisztelete:** A felek kötelezik magukat arra, hogy minden körülmények között megóvják egymás emberi méltóságát, soha nem csorbítják a másik nyilvános vagy magánéleti tekintélyét, és a felmerülő nézeteltéréseket mindig zárt ajtók mögött, mély empátiával, egymást féltő türelemmel, kompromisszumokkal és megértéssel rendezik.
 * **A magánélet és a meghitt közelség szentsége:** A felek kötelezik magukat, hogy az államvezetéssel és a nemzetközi diplomáciával járó hatalmas nyomás ellenére az egymásra fordított minőségi idő szent és megkérdőjelezhetetlen elsőbbséget élvez. Vállalják, hogy a hivatalos protokoll és a politikai napirend kizárásával rendszeresen teremtenek kettesben töltött, háborítatlan időszakokat, ahol nem csupán mint Diktátor és Hercegnő, hanem mint egymást feltétlenül szerető férj és feleség táplálják lelki és érzelmi köteléküket.
 
 **2. Egyenrangú Szövetség és Szellemi Partnerség**
@@ -61,7 +61,7 @@ A felek kinyilvánítják, hogy házasságuk alapja a kölcsönös tisztelet, a 
 **4. A Biológiai Garanciák**
 
 * **Életelixír Klauzula:** Mivel a felek esküje és egymás iránti elköteleződése túlmutat egy hagyományos, halandó emberöltőn, a Waikiki Állam, az Inter Medic vállalat és a Chease-dinasztia megteremti az ehhez szükséges fizikai és biológiai feltételeket, hogy Raimondo és Selena akár évszázadokon át élvezhessék egymás társaságát.
-* **Garantált Hozzáférés:** Raimondo és Selena a házasság megkötésének pillanatától kezdve élethossziglan, alanyi jogon jogosult az *Inter Medic* által fejlesztett, az emberi öregedést lassító legmagasabb szintű sejtregenerációs és fiatalító kezelésekre. Ez mindaddig fenáll, amíg a Chease család irányítási részesedéssel rendelkezik a vállalatban.
+* **Garantált Hozzáférés:** Raimondo és Selena a házasság megkötésének pillanatától kezdve élethossziglan, alanyi jogon jogosult az *Inter Medic* által fejlesztett, az emberi öregedést lassító legmagasabb szintű sejtregenerációs és fiatalító kezelésekre. Ez mindaddig fennáll, amíg a Chease család irányítási részesedéssel rendelkezik a vállalatban.
 * **Az Utódok Biológiai Védelme:** A házasságból születő minden közös gyermek a születésének pillanatától alanyi jogon részévé válik a Chease-dinasztia és az *Inter Medic* legfejlettebb biológiai és sejtregenerációs életvédelmi programjának. Ezen terápiás védelem célja a jövendőbeni trónörökösök a szülőkkel megegyező, évszázadokon átívelő kiterjesztett élettartamának garantálása, ezáltal biztosítva Waikiki megdönthetetlen vezetését és a dinasztikus stabilitást.
 
 ---
@@ -116,7 +116,7 @@ Bármely közös gyermek születése pillanatában automatikusan a Chease-dinasz
 **2. Vagyonkezelő Alapok**
 A válás esetén a gyermekekre eső vagyoni hányad (vagy a 10 éven belüli válás esetén gyermekenként 100 millió USD) egy zárolt Nemzeti Vagyonkezelő Alapba kerül. Az Alap kezelését a gyermekek 18. életévének betöltéséig a Waikiki Nemzeti Bank, valamint a Királyi Család közös felügyelete alatt végzi.
 **3. Nevelési Vétójog**
-Válás esetén Selena megőrzi teljes körű anyai felügyeleti és láthatási jogát. A gyermekek államigazgatási és ceremoniális nevelésébe a Dinazstia irányelvei az iránymutatóak, azonban Selena minden oktatási, vallási és egészségügyi kérdésben abszolút vétójoggal rendelkezik.
+Válás esetén Selena megőrzi teljes körű anyai felügyeleti és láthatási jogát. A gyermekek államigazgatási és ceremoniális nevelésébe a Dinasztia irányelvei az iránymutatóak, azonban Selena minden oktatási, vallási és egészségügyi kérdésben abszolút vétójoggal rendelkezik.
 **4. Elsődleges Otthon**
 A felek rögzítik, hogy a trónöröklési kötelezettségekre, a dinasztikus hagyományokra, valamint a maximális fizikai és érzelmi biztonságra tekintettel a közös gyermekek elsődleges otthona és hivatalos lakhelye Nova Aurelia lesz. Ez a rendelkezés mind a házastársi életközösség fennállása alatt, mind pedig egy esetleges különélés vagy a házasság felbontása esetén megkerülhetetlenül irányadó.
 
