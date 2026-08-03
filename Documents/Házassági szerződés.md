@@ -6,7 +6,7 @@
 
 A jelen szerződés létrejött egyrészről **Raimondo Chease, Waikiki Diktátora és Koronahercege** (a továbbiakban: *Raimondo*), másrészről **Selena Marie Gomez, Waikiki Szenátora és Hercegnője** (a továbbiakban: *Selena*) között.
 
-Jelen megállapodás a Waikiki Állam Alkotmányára és a „Waikiki First” doktrína geopolitikai alapelveire szigorú hűséggel illeszkedően kidolgozott szuverén és elidegeníthetetlen jogforrás. A Felek a jelen megállapodást kölcsönös szeretetük, feltétlen bizalmuk és évszázadokon átívelő közös elköteleződésük jegyében kötik. A szerződés elsődleges célja a Felek magánvagyonának transzparens és méltányos kezelése, a születendő gyermekek érdekeinek és dinasztikus jogainak garantálása, valamint a Waikiki Állam nemzetbiztonságának és gazdasági stabilitásának mindenek felett álló védelme.
+Jelen megállapodás a Waikiki Állam Alkotmányára és a „Waikiki First” doktrína geopolitikai alapelveire szigorú hűséggel illeszkedően kidolgozott szuverén és elidegeníthetetlen jogforrás. A felek a jelen megállapodást mély és feltétlen szeretetük, feltétlen bizalmuk és évszázadokon átívelő közös elköteleződésük jegyében kötik. Kinyilvánítják, hogy szövetségük alapja az a szerelem, amely minden külső geopolitikai kötelezettség és uralkodói teher felett állva valódi otthont, lelki békét és meghitt menedéket nyújt számukra egymás oldalán. A szerződés elsődleges célja ezen megbonthatatlan érzelmi egységre építve a felek magánvagyonának transzparens és méltányos kezelése, a szerelemből születendő gyermekeik érdekeinek és dinasztikus jogainak garantálása, valamint a Waikiki Állam nemzetbiztonságának és gazdasági stabilitásának mindenek felett álló védelme.
 
 ---
 
@@ -14,7 +14,7 @@ Jelen megállapodás a Waikiki Állam Alkotmányára és a „Waikiki First” d
 
 **1. A Magánvagyon Definiálása**
 
-A Felek rögzítik a házasságkötés pillanatában fennálló, a jelen szerződés hatálya alá tartozó becsült magánvagyonukat:
+A felek rögzítik a házasságkötés pillanatában fennálló, a jelen szerződés hatálya alá tartozó becsült magánvagyonukat:
 
 * **Raimondo magánvagyona:** megközelítőleg **2.000 milliárd USD** (2 trillió dollár).
 * **Selena magánvagyona:** megközelítőleg **3 milliárd USD**.
@@ -35,86 +35,116 @@ Ezek a vagyonelemek a házasság fennállásától vagy esetleges felbontását�
 
 ## II. FEJEZET: HÁZASTÁRSI ÉLETKÖZÖSSÉG ÉS DINASZTIKUS KÖTELEZETTSÉGVÁLLALÁSOK
 
-A Felek kinyilvánítják, hogy házasságuk alapja a kölcsönös tisztelet, a hűség, a feltétlen bizalom és az egyenrangú partnerek közti őszinte együttműködés. Annak érdekében, hogy a családi élet harmóniáját és magas szintű közéleti teendőiket zavartalanul összhangba hozzák, a házastársi életközösség keretében az alábbi örökérvényű fogadalmakat és kötelezettségeket vállalják egymás, a születendő gyermekeik és Waikiki népe előtt:
+A felek kinyilvánítják, hogy házasságuk alapja a kölcsönös tisztelet, a hűség, a feltétlen bizalom, a gyengéd rajongás és az egyenrangú partnerek közti őszinte együttműködés. Annak érdekében, hogy a családi élet harmóniáját és magas szintű közéleti teendőiket zavartalanul összhangba hozzák, a házastársi életközösség keretében az alábbi örökérvényű fogadalmakat és kötelezettségeket vállalják egymás, a születendő gyermekeik és Waikiki népe előtt:
 
 **1. Szeretet, Hűség és Odaadás**
 
-* **Megingathatatlan támasz:** A Felek fogadalmat tesznek arra, hogy jó és rossz időkben, globális válságok és személyes nehézségek közepette is egymás legfőbb bizalmasai és érzelmi támaszai maradnak. Otthonuk falai között minden külső geopolitikai nyomást maguk mögött hagyva, a feltétlen elfogadás és a békesség menedékét biztosítják egymás számára.
-* **Kizárólagos hűség:** Raimondo és Selena vállalják, hogy testben és lélekben kizárólagosan egymáshoz tartoznak. Hűségük nem pusztán a szerződésből fakadó kötelezettség, hanem az egymás iránt érzett tisztelet és odaadás legmagasabb szintű kifejezése. Ezen sziklaszilárd elköteleződésük egyben a királyi család erkölcsi tekintélyének és a Waikiki megdönthetetlen belső stabilitásának is az elsődleges alapköve.
-* **Egymás integritásának tisztelete:** A Felek kötelezik magukat arra, hogy minden körülmények között megóvják egymás emberi méltóságát, soha nem csorbítják a másik nyilvános vagy magánéleti tekintélyét, és a felmerülő nézeteltéréseket mindig zárt ajtók mögött, empátiával, kompromisszumokkal és megértéssel rendezik.
+* **Megingathatatlan támasz:** A felek fogadalmat tesznek arra, hogy jó és rossz időkben, globális válságok és személyes nehézségek közepette is egymás legfőbb bizalmasai, érzelmi támaszai és megértő társai maradnak. Otthonuk falai között minden külső geopolitikai nyomást és hivatalos terhet maguk mögött hagyva, a gyengéd figyelem, a feltétlen elfogadás és a békesség menedékét biztosítják egymás számára.
+* **Kizárólagos hűség:** Raimondo és Selena vállalják, hogy testben és lélekben kizárólagosan, szenvedélyes meggyőződéssel egymáshoz tartoznak. Hűségük nem pusztán a szerződésből fakadó kötelezettség, hanem az egymás iránt érzett tisztelet, szerelem és odaadás legmagasabb szintű kifejezése. Ezen sziklaszilárd érzelmi elköteleződésük egyben a királyi család erkölcsi tekintélyének és a Waikiki megdönthetetlen belső stabilitásának is az elsődleges alapköve.
+* **Egymás integritásának tisztelete:** A felek kötelezik magukat arra, hogy minden körülmények között megóvják egymás emberi méltóságát, soha nem csorbítják a másik nyilvános vagy magánéleti tekintélyét, és a felmerülő nézeteltéréseket mindig zárt ajtók mögött, mély empátiával, egymást féltő tüzelemmel, kompromisszumokkal és megértéssel rendezik.
+* **A magánélet és a meghitt közelség szentsége:** A felek kötelezik magukat, hogy az államvezetéssel és a nemzetközi diplomáciával járó hatalmas nyomás ellenére az egymásra fordított minőségi idő szent és megkérdőjelezhetetlen elsőbbséget élvez. Vállalják, hogy a hivatalos protokoll és a politikai napirend kizárásával rendszeresen teremtenek kettesben töltött, háborítatlan időszakokat, ahol nem csupán mint Diktátor és Hercegnő, hanem mint egymást feltétlenül szerető férj és feleség táplálják lelki és érzelmi köteléküket.
 
 **2. Egyenrangú Szövetség és Szellemi Partnerség**
 
-* **A közös teher viselése:** A Felek az otthonteremtés, a családi napirend és a hivatalos rezidenciák belső működési rendjét közösen, egyetértésben határozzák meg. A reprezentációs és a királyi kötelességekből eredő feladatokat és felelősséget arányosan megosztják, mindenkori célként szem előtt tartva a béke és a családi harmónia fenntartását.
-* **Feladatmegosztás:** A Felek a közös háztartás fenntartásából, a magán jellegű utazásaikból és az esetleges gyermeknevelésből származó tennivalókat és költségeket megosztják egymás között. A közös pénzügyi kiadásokat Raimondo feltétlen szereteteként a magánvagyonából fedezi. Selena önkéntesen hozzájárulhat a háztartás fenntartásához a saját magánvagyona terhére.
+* **A közös teher viselése:** A felek az otthonteremtés, a családi napirend és a hivatalos rezidenciák belső működési rendjét közösen, egyetértésben határozzák meg. A reprezentációs és a királyi kötelességekből eredő feladatokat és felelősséget arányosan megosztják, mindenkori célként szem előtt tartva a béke, az egymásra hangolódás és a családi harmónia fenntartását.
+* **Feladatmegosztás:** A felek a közös háztartás fenntartásából, a magán jellegű utazásaikból és az esetleges gyermeknevelésből származó tennivalókat és költségeket megosztják egymás között. A közös pénzügyi kiadásokat Raimondo feltétlen szereteteként a magánvagyonából fedezi. Selena önkéntesen hozzájárulhat a háztartás fenntartásához a saját magánvagyona terhére.
 * **Önálló kibontakozás:** Raimondo kifejezetten kötelezi magát arra, hogy mindenben támogatja Selena független diplomáciai, humanitárius és szenátori munkáját. Selena vállalja, hogy ezen tevékenységeit úgy végzi, hogy azok mindenkor a család dicsőségét, Waikiki nemzeti érdekeit és a kettejük közös vízióját szolgálják.
+* **Védelem és odaadás:** Raimondo vállalja, hogy mind férjeként, mind uralkodóként feltétlen fizikai, hatalmi és érzelmi védelmet biztosít Selena számára minden külső befolyással szemben. Selena pedig mély és őszinte odaadással, lelki harmóniával és gyengéd figyelemmel erősíti kettejük megbonthatatlan szövetségét.
 
 **3. A Család és a Dinasztia Védelme**
 
-* **A Gyermekek Érzelmi Biztonsága:** A Felek vállalják, hogy a házasságukból születő gyermekeket a legnagyobb szeretetben, odaadásban és megingathatatlan érzelmi biztonságban nevelik fel. Kiterjedt uralkodói, diktátori és diplomáciai kötelezettségeik közepette is garantálják, hogy a közös gyermekeik feszültségmentes, harmonikus légkörben bontakozhatnak ki.
-* **Dinasztikus Elköteleződés:** A Felek fogadalmat tesznek arra, hogy gyermekeikbe belenevelik a Chease-dinasztia alapértékeit, a felelősségtudatot, a méltóságot, a hazaszeretetet és a Waikiki iránti elkötelezettséget, felkészítve őket a nemzet és a világ vezetésére. Tekintettel a Diktátor és a Hercegnő hatalmi pozíciójára, a család minden tagjának testi épsége legfelsőbb szintű nemzetbiztonsági kardinális kérdés.
-* **Szellemi és Kulturális Örökség:** A Felek a Chease királyi vérvonal hagyományait és Selena globális diplomáciai, humanitárius és kulturális örökségét egységben kezelik és megteremtik a családi tradíciót, amely egyszerre támaszkodik Waikiki megdönthetetlen erejére és az örökérvényű szülői tiszteletre.
+* **A Gyermekek Érzelmi Biztonsága:** A felek vállalják, hogy a házasságukból születő gyermekeket a legnagyobb szeretetben, odaadásban és megingathatatlan érzelmi biztonságban nevelik fel. Kiterjedt uralkodói, diktátori és diplomáciai kötelezettségeik közepette is garantálják, hogy a közös gyermekeik feszültségmentes, harmonikus légkörben bontakozhatnak ki.
+* **Dinasztikus Elköteleződés:** A felek fogadalmat tesznek arra, hogy gyermekeikbe belenevelik a Chease-dinasztia alapértékeit, a felelősségtudatot, a méltóságot, a hazaszeretetet és a Waikiki iránti elkötelezettséget, felkészítve őket a nemzet és a világ vezetésére. Tekintettel a Diktátor és a Hercegnő hatalmi pozíciójára, a család minden tagjának testi épsége legfelsőbb szintű nemzetbiztonsági kardinális kérdés.
+* **Szellemi és Kulturális Örökség:** A felek a Chease királyi vérvonal hagyományait és Selena globális diplomáciai, humanitárius és kulturális örökségét egységben kezelik és megteremtik a családi tradíciót, amely egyszerre támaszkodik Waikiki megdönthetetlen erejére és az örökérvényű szülői tiszteletre.
+* **Királyi Jogállás és Rang:** A felek közös gyermekei a Waikiki Állam Alkotmányának értelmében születésük pillanatától alanyi jogon a Királyi Család teljes jogú tagjaivá válnak, akiket automatikusan megillet a **Herceg**, illetve **Hercegnő** rang, valamint az azzal járó alkotmányos és dinasztikus előjogok.
 
 **4. A Biológiai Garanciák**
 
-* **Életelixír Klauzula:** Mivel a Felek esküje és egymás iránti elköteleződése túlmutat egy hagyományos, halandó emberöltőn, a Waikiki Állam, az Inter Medic vállalat és a Chease-dinasztia megteremti az ehhez szükséges fizikai és biológiai feltételeket, hogy Raimondo és Selena akár évszázadokon át élvezhessék egymás társaságát.
+* **Életelixír Klauzula:** Mivel a felek esküje és egymás iránti elköteleződése túlmutat egy hagyományos, halandó emberöltőn, a Waikiki Állam, az Inter Medic vállalat és a Chease-dinasztia megteremti az ehhez szükséges fizikai és biológiai feltételeket, hogy Raimondo és Selena akár évszázadokon át élvezhessék egymás társaságát.
 * **Garantált Hozzáférés:** Raimondo és Selena a házasság megkötésének pillanatától kezdve élethossziglan, alanyi jogon jogosult az *Inter Medic* által fejlesztett, az emberi öregedést lassító legmagasabb szintű sejtregenerációs és fiatalító kezelésekre. Ez mindaddig fenáll, amíg a Chease család irányítási részesedéssel rendelkezik a vállalatban.
 * **Az Utódok Biológiai Védelme:** A házasságból születő minden közös gyermek a születésének pillanatától alanyi jogon részévé válik a Chease-dinasztia és az *Inter Medic* legfejlettebb biológiai és sejtregenerációs életvédelmi programjának. Ezen terápiás védelem célja a jövendőbeni trónörökösök a szülőkkel megegyező, évszázadokon átívelő kiterjesztett élettartamának garantálása, ezáltal biztosítva Waikiki megdönthetetlen vezetését és a dinasztikus stabilitást.
 
 ---
 
-## III. A HÁZASSÁG FELBONTÁSA
+## III. FEJEZET: A HÁZASSÁG FELBONTÁSA
+
+A felek kinyilvánítják, hogy a jelen szerződés által létrehozott szövetséget évszázados időtávra, szívük megváltoztathatatlan döntéseként kötik, és a házasság felbontását olyan végső, elméleti intézkedésnek tekintik, amelyre kizárólag a házastársi életközösség feloldhatatlan és visszafordíthatatlan megromlása esetén kerülhet sor. Tekintettel arra, hogy a felek frigye Waikiki gazdasági stabilitásának egyik kiemelkedő alappillére, a válási eljárásra a szokásos polgári jogi aktusoknál lényegesen szigorúbb garanciális elvek és az alábbi különleges eljárásrend vonatkozik:
+
+**1. A Felbontás Kezdeményezése és Jogalapjai**
+
+* **Közös vagy egyoldalú kezdeményezés:** A házasság felbontását mind Raimondo, mind Selena jogosult hivatalosan kezdeményezni, mind kölcsönös megegyezés, mind pedig feloldhatatlan nézeteltérésre hivatkozó egyoldalú nyilatkozat alapján. A házasság felbontása csak a legvégső esetben, őszinte szándékú belső egyeztetés és a kettejük közti romantikus kötelék helyreállítását megkísérlő, szeretetteljes mediáció sikertelensége után lehetséges.
+* **Szigorúan bizalmas eljárás:** A válási szándékot mindkét esetben szigorúan bizalmas formában, írásban kell benyújtani a Legfelsőbb Bíróság felé. A Waikiki Állam méltóságából és nemzetbiztonsági elveiből fakadóan nyilvános polgári bírósági eljárásra vagy külső hatóságok bevonására semmilyen körülmények között nincs lehetőség.
+* **A méltóság sérthetetlensége:** A felbontás indítása semelyik fél tekintetében nem jelenti a közéleti, jogi vagy dinasztikus tekintélyének csökkentését. A felek kötelezik magukat arra, hogy a teljes eljárás alatt megőrzik egymás teljes körű emberi és diplomáciai méltóságát, kerülik a vádaskodást, és a kettejük közös múltja, valamint szerelme előtt fejet hajtó, legteljesebb tisztelettel cselekedve hajtják végre a különválást.
+
+**2. Békéltető és Mediációs Eljárás**
+
+* **Mérlegelési időszak (Cooling-off Period):** A válási szándék Legfelsőbb Bíróságra történő benyújtását követően egy kötelező, 30 napos bizalmas mérlegelési szünet lép életbe. Ezen időszak alatt a felek felfüggesztik a hivatalos eljárás érdemi jogi lépéseit, és lehetőséget teremtenek az érzelmi és szellemi kötelékük helyreállítására.
+* **Zárt mediáció:** A békéltetést kizárólag a Legfelsőbb Bíróság Főbírója által felügyelt zárt testület vezeti. A mediáció során a felek egyenrangú partnerekhez méltó nyíltsággal és egymás iránti tisztelettel törekednek a nézeteltérések feloldására.
+* **Tehermentesített időszakok:** A mérlegelési eljárás alatt mind Raimondo diktátori, mind Selena szenátori és nagyköveti napirendjét úgy kell tehermentesíteni, hogy a külső politikai protokoll kizárása mellett megfelelő alkalom nyíljon a háborítatlan, zavartalan párbeszédre.
+
+**3. A Különélés Státusza és a Végleges Felbontás**
+
+* **Diplomáciai és reprezentációs folytonosság:** Különélés vagy a folyamatban lévő válási eljárás alatt a felek vállalják, hogy az állami ceremóniákon és a nemzetközi diplomáciai eseményeken megőrzik a méltóságteljes, összehangolt közös megjelenést, kinyilvánítva Waikiki belső stabilitását és a kettejük közti töretlen emberi tiszteletet.
+* **A felbontási határozat kiadása:** Amennyiben a békéltető időszak elteltével bármely fél végleges döntésként fenntartja a felbontás iránti kérelmét, a Legfelsőbb Bíróság zárt eljárásban kiállítja a végleges felbontási határozatot. A döntés automatikusan életbe lépteti a IV. fejezetben rögzített vagyonmegosztási, valamint az V. fejezetbe foglalt dinasztikus gyermekvédelmi rendelkezéseket.
 
 ---
 
 ## IV. FEJEZET: VAGYONMEGOSZTÁS ÉS IDŐBELI LÉPCSŐK
 
-A házasság felbontása esetén a Közös Magánvagyon felosztása a geopolitikai stabilitás és a hosszú távú bizalom elismerése érdekében az alábbi időbeli lépcsők szerint történik:
+A vagyonmegosztás szempontjából független, hogy a házasság felbontását melyik fél kezdeményezte, vagy pedig közösen döntöttek a különválás mellett. A házasság felbontása esetén a Közös Magánvagyon felosztása a hosszú távú bizalom elismerése érdekében az alábbi időbeli lépcsők szerint történik:
 
 **1. A házasságkötéstől számított ELSŐ 10 ÉVEN BELÜL történő válás esetén:**
 
-* Selena részére egyösszegű, méltányos kompenzációként **7 milliárd USD** kerül kifizetésre a Közös Magánvagyonból. (Ez az összeg magában foglalja Selena eredeti 3 milliárd USD vagyonát, kiegészítve egy 4 milliárd USD értékű diplomáciai és életviteli kompenzációval).
-* A kompenzáció magában foglalja az eddigi közös rezidenciák közül legalább egy nemzetközi és egy waikiki luxusingatlan (pl. maldív-szigeteki birtok) kizárólagos tulajdonjogát.
-* A Közös Magánvagyon fennmaradó része (közel 2.000 milliárd USD) Raimondo kizárólagos tulajdonában marad.
+* Selena részére egyösszegű, méltányos kompenzációként **7 milliárd USD** kerül kifizetésre a Közös Magánvagyonból. (Ez az összeg magában foglalja Selena eredeti vagyonát, kiegészítve egy diplomáciai és életviteli kompenzációval).
+* Raimondo és Selena gyermekenként egy **100 millió USD** értékű vagyonalap létrehozását vállalják a felek vagyoni arányának megfelelő hozzájárulásával, amihez a gyermek a 18. életévének betöltésekor férhet hozzá.
+* A Közös Magánvagyon fennmaradó része Raimondo kizárólagos tulajdonában marad, ebből Selena semmilyen formában nem részesül és lemond minden fajta rendszeres juttatásról, tartásdíjról és egyéb, a házassági szerződéstől eltérő anyagi igényről.
 
 **2. A házasságkötéstől számított 10 ÉV ELTELTÉT KÖVETŐEN történő válás esetén (Dinasztikus Szövetség):**
-A tíz évnyi hűséges és sikeres állami/magánéleti szolgálat elismeréseként a teljes Közös Magánvagyon (beleértve a házasság alatt keletkezett értéknövekedést is) az alábbi, szigorú arányokban oszlik meg:
+A tíz évnyi hűséges és sikeres magánéleti kapcsolat, valamint állami szolgálat elismeréseként a teljes Közös Magánvagyon (beleértve a házasság előtti vagyonokat és a vagyonok a házasság alatt keletkezett értéknövekedését is) az alábbi, szigorú arányokban oszlik meg:
 
-* **Gyermektelen házasság esetén:** A Közös Magánvagyon **50-50% arányban** (hozzávetőleg 1.000 milliárd USD / fő) oszlik meg a Felek között.
-* **Egy közös gyermek esetén:** 33% Raimondo, 33% Selena, 34% a gyermek.
-* **Két közös gyermek esetén:** 25% Raimondo, 25% Selena, 25% az első gyermek, 25% a második gyermek.
-* **Három vagy több közös gyermek esetén:** A szülők (Raimondo és Selena) fejenként legfeljebb 20-20%-ot tarthatnak meg, a fennmaradó 60% a gyermekek között egyenlő arányban oszlik el.
+* **Gyermektelen házasság esetén:** A Közös Magánvagyon **50-50% arányban** oszlik meg a felek között.
+* **Egy közös gyermek esetén:** 40% Raimondo, 40% Selena, 20% a gyermek.
+* **Két közös gyermek esetén:** 35% Raimondo, 35% Selena, 15% az első gyermek, 15% a második gyermek.
+* **Három vagy több közös gyermek esetén:** A szülők fejenként 30-30%-ot tarthatnak meg, a fennmaradó 40% a gyermekek között egyenlő arányban oszlik el.
 
 ---
 
 ## V. FEJEZET: DINASZTIKUS ÖRÖKLÉS ÉS GYERMEKVÉDELEM
 
 **1. Trónöröklés és Jogállás**
-Bármely közös gyermek születése pillanatában automatikusan a Chease-dinasztia teljes jogú tagjává, és a Waikiki Trón várományosává válik. Személyük felett a Legfelsőbb Bíróság és a Királyi Család gyakorol védnökséget.
-**2. Vagyonkezelő Alapok (Trusts)**
-A válás esetén a gyermekekre eső vagyoni hányad (vagy a 10 éven belüli válás esetén gyermekenként 100 millió USD) egy zárolt Nemzeti Vagyonkezelő Alapba kerül. Az Alap kezelését a gyermekek 20. életévének betöltéséig a Waikiki Nemzeti Bank (jelenleg Jessica Walker elnökletével), valamint a Királyi Család végzi.
+Bármely közös gyermek születése pillanatában automatikusan a Chease-dinasztia teljes jogú tagjává, és a Waikiki Trón várományosává válik. Válás esetén a gyermekek felett a Királyi Család gyakorol védnökséget.
+**2. Vagyonkezelő Alapok**
+A válás esetén a gyermekekre eső vagyoni hányad (vagy a 10 éven belüli válás esetén gyermekenként 100 millió USD) egy zárolt Nemzeti Vagyonkezelő Alapba kerül. Az Alap kezelését a gyermekek 18. életévének betöltéséig a Waikiki Nemzeti Bank, valamint a Királyi Család közös felügyelete alatt végzi.
 **3. Nevelési Vétójog**
 Válás esetén Selena megőrzi teljes körű anyai felügyeleti és láthatási jogát. A gyermekek államigazgatási és ceremoniális nevelésébe a Dinazstia irányelvei az iránymutatóak, azonban Selena minden oktatási, vallási és egészségügyi kérdésben abszolút vétójoggal rendelkezik.
+**4. Elsődleges Otthon**
+A felek rögzítik, hogy a trónöröklési kötelezettségekre, a dinasztikus hagyományokra, valamint a maximális fizikai és érzelmi biztonságra tekintettel a közös gyermekek elsődleges otthona és hivatalos lakhelye Nova Aurelia lesz. Ez a rendelkezés mind a házastársi életközösség fennállása alatt, mind pedig egy esetleges különélés vagy a házasság felbontása esetén megkerülhetetlenül irányadó.
 
 ---
 
 ## VI. FEJEZET: HŰTLENSÉGI, REPUTÁCIÓS ÉS TITOKTARTÁSI KLAUZULÁK
 
-Tekintettel a Diktátor és a Konzul pozíciójára, a Felek magánélete nemzetbiztonsági kérdés. A "Reputációs Doktrína" megsértése szigorú szankciókat von maga után.
+Tekintettel a Diktátor és a Konzul pozíciójára, a felek magánélete nemzetbiztonsági kérdés. A "Reputációs Doktrína" megsértése szigorú szankciókat von maga után.
 
-**1. Hűtlenség Selena részéről**
-Amennyiben bizonyítást nyer Selena hűtlensége, a Felek vagyonmegosztása kizárólag a hozott saját vagyonuk arányában történik. Selena azonnal elveszíti jogosultságát a 7 milliárd USD értékű kompenzációra, valamint a 10 év utáni 50%-os (vagyonarányos) felosztásra. Csupán az általa bevitt/megkeresett (kb. 3 milliárd USD) vagyonnal távozhat.
-**2. Hűtlenség Raimondo részéről**
-Raimondo hűtlenségére vonatkozóan a dokumentum – a Diktátori jogállás miatt – nem tartalmaz nyílt büntetőjogi szankciót. Azonban, ha Selena Raimondo bizonyított hűtlensége miatt kezdeményezi a válást, Selena jogosulttá válik a IV. Fejezetben meghatározott maximális kompenzációkra (10 éven belül 7 milliárd, azon túl a Közös Magánvagyon fele), függetlenül attól, hogy az állami gépezet hogyan kommunikálja a különválást.
-**3. Abszolút Titoktartás (NDA)**
-Válás, különválás vagy bármilyen magánéleti konfliktus esetén teljes és életfogytig tartó nyilatkozattételi tilalom lép életbe. Tilos bármilyen nyilvános interjú, könyvpublikáció, közösségi média poszt vagy háttérbeszélgetés. A tilalom megszegése hazaárulásnak minősülhet, és a biológiai garancia (Életelixír) azonnali megvonását vonja maga után.
+**1. A kibékülés lehetősége és az automatikus bontóok kizárása**
+A felek kifejezetten rögzítik, hogy az esetleges bizonyított hűtlenség semelyik fél részéről nem jelenti a házastársi szövetség automatikus vagy kötelező érvényű felbontását. A felek kettejük mély szerelmét, az emberi megbocsátás esélyét és a dinasztikus kötelék megóvását szem előtt tartva elismerik, hogy egy esetleges hűtlenségi krízis ellenére is mindenkor nyitva áll a lehetőség a sérelmek rendezésére és a teljes körű kibékülésre. Az alább részletezett vagyoni szankciók és jogi következmények kizárólag abban az esetben aktiválódnak, amennyiben a sérelmet szenvedett fél elutasítja a kibékülést, és kifejezetten a hűtlenségre hivatkozva a házasság felbontása mellett dönt.
+**2. A hűtlenség esetei**
+TODO
+**3. Vagyonfelosztás hűtlenség esetén**
+TODO
+**4. Hűtlenség Selena részéről**
+Amennyiben bizonyítást nyer Selena hűtlensége, és ez a kibékülés elutasítása miatt a házasság felbontásához vezet, a felek vagyonmegosztása kizárólag a hozott saját vagyonuk arányában történik. Selena azonnal elveszíti jogosultságát a 7 milliárd USD értékű kompenzációra, valamint a 10 év utáni 50%-os felosztásra. Csupán az általa bevitt és megkeresett vagyonnal távozhat.
+**5. Hűtlenség Raimondo részéről**
+Ha Selena Raimondo bizonyított hűtlensége miatt kezdeményezi a válást és elutasítja a kibékülést, Selena jogosulttá válik a IV. Fejezetben meghatározott maximális kompenzációkra (10 éven belül 7 milliárd, azon túl a Közös Magánvagyon fele).
+**6. Abszolút Titoktartás**
+Válás, különválás vagy bármilyen magánéleti konfliktus esetén teljes és életfogytig tartó nyilatkozattételi tilalom lép életbe. Tilos bármilyen nyilvános interjú, könyvpublikáció, közösségi média poszt vagy háttérbeszélgetés a másik féllel, vagy a házassággal, vagy a dinasztia tagjaival kapcsolatosan, a másik fél hozzájárulása nélkül. A tilalom megszegése hazaárulásnak minősülhet, és a kedvezmények azonnali megvonását vonja maga után.
 
 ---
 
 ## VII. FEJEZET: ÁLLAMI ÉS DIPLOMÁCIAI STÁTUSZ
 
 **1. Pozíciók Megőrzése**
-Selena szenátori, konzuli és UNICEF-nagyköveti tisztségei, valamint a hercegnői rangja a saját, egyéni érdemein (Érdem-Mátrix, Waikiki Economics University diploma) alapulnak. Házasság felbontása esetén – amennyiben az nem hűtlenség vagy hazaárulás miatt történik – Selena ezeket a címeket, és az ezzel járó diplomáciai mentelmi jogot élethossziglan megőrzi.
+Selena szenátori, konzuli és UNICEF-nagyköveti tisztségei, valamint a hercegnői rangja a saját, egyéni érdemein alapulnak. Házasság felbontása esetén, amennyiben az nem hűtlenség vagy hazaárulás miatt történik, Selena ezeket a címeket, és az ezzel járó diplomáciai mentelmi jogot megőrzi.
 **2. Lojalitási Nyilatkozat**
 Selena vállalja, hogy válás esetén sem csatlakozik semmilyen ellenzéki formációhoz, nem veszélyezteti Waikiki kormányzatának működését, és cselekedetei nem lehetnek ellentétesek az állam vagy a Chease-dinasztia hosszú távú geopolitikai érdekeivel.
 
@@ -125,9 +155,9 @@ Selena vállalja, hogy válás esetén sem csatlakozik semmilyen ellenzéki form
 **1. Kizárólagos Joghatóság**
 Jelen szerződésre, valamint a belőle fakadó bármely jogvitára kizárólag a Waikiki Szuverén Állam jogrendje alkalmazandó.
 **2. Titkos Arbitrázs**
-Bármely, a házassággal vagy a jelen szerződéssel kapcsolatos vitás kérdésben a nyilvános bírósági eljárás szigorúan kizárt. Minden vitát a Chease Családi Tanács és a Legfelsőbb Bíróság Főbírója (jelenleg Sebastian Stark) által vezetett Titkos Arbitrázsbizottság előtt, zárt ajtók mögött kell rendezni. Az arbitrázs döntése végleges és megfellebbezhetetlen.
+Bármely, a házassággal vagy a jelen szerződéssel kapcsolatos vitás kérdésben a nyilvános bírósági eljárás szigorúan kizárt. Minden vitát a Chease Családi Tanács és a Legfelsőbb Bíróság Főbírója által vezetett Titkos Arbitrázsbizottság előtt, zárt ajtók mögött kell rendezni. Az arbitrázs döntése végleges és megfellebbezhetetlen.
 
-*A Felek a jelen szerződést, mint akaratukkal mindenben megegyezőt, a Diktátori Kabinet Jogi Tanácsának jelenlétében, jóváhagyólag írják alá.*
+*A felek kinyilvánítják, hogy bár a jelen dokumentum szuverén állami jogforrás és dinasztikus okmány, annak valódi mozdíthatatlan tartóoszlopa a két kötelékbe lépő lélek tiszteletre és mély szerelemre épülő egymásra találása. A felek a jelen szerződést, mint szabad, szeretetteljes, egymást támogató akaratukkal mindenben megegyezőt, a Diktátori Kabinet Jogi Tanácsának jelenlétében, jóváhagyólag és büszkeséggel írják alá.*
 
 **Kelt: Nova Aurelia, Hercegi Palota, 2026.**
 
